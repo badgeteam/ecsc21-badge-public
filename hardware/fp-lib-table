@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name TS-1186U-C-A)(type KiCad)(uri ${KIPRJMOD}/libs/TS-1186U-C-A.pretty)(options "")(descr ""))
+  (lib (name OPTO-SMD_IRM-V840C_TR1)(type KiCad)(uri ${KIPRJMOD}/libs/OPTO-SMD_IRM-V840C_TR1.pretty)(options "")(descr ""))
+  (lib (name esp32-wrover)(type KiCad)(uri ${KIPRJMOD}/libs/esp32-wrover.pretty)(options "")(descr ""))
+  (lib (name svgconvert)(type KiCad)(uri /Users/tom/Git/svgconvert)(options "")(descr ""))
+)
